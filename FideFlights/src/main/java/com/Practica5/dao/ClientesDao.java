@@ -1,5 +1,5 @@
 package com.Practica5.dao;
 
-public interface ClienteDao {
+public interface ClientesDao {
     
 }
